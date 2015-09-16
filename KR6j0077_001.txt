@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:33.018741
+#+DATE: 2015-08-30 20:25:33.423956
 #+TITLE: 佛頂尊勝心破地獄轉業障出三界祕密三身佛果三種悉地真言儀軌
 #+PROPERTY: CBETA_ID T18n0906
 #+PROPERTY: ID KR6j0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 906
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0077_T_000-0912b>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0077_T_001-0912b> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.906¶
-
- 佛頂尊勝心破地獄轉業障出三¶
+No. 906¶
+佛頂尊勝心破地獄轉業障出三¶
 界祕密三身佛果三種悉地真言¶
 儀軌一卷¶
 ¶
@@ -275,8 +274,8 @@ No.906¶
 
 脾　種子　金塔(成自受法樂率都婆供養)。¶
 
-中央𦝩智大圓鏡智(目所住自耳)　心智平等性智(所住¶
+中央[月*胃]智大圓鏡智(目所住自耳)　心智平等性智(所住¶
 額)　肺智妙觀察智(所住喉)　腎智成所作智(舌)¶
 　膽降三世　大腸軍荼利　胞炎曼德迦　小¶
-腸金剛夜叉　𦝩不動尊　三焦普賢(十方放光照一切剎¶
-土如來)　六府者　膽　小腸　𦝩　膀胱　三焦。
+腸金剛夜叉　[月*胃]不動尊　三焦普賢(十方放光照一切剎¶
+土如來)　六府者　膽　小腸　[月*胃]　膀胱　三焦。
